@@ -125,14 +125,19 @@ Using parts in the stock, **R1 = 1k**, **R2 = 68k in series with a 0 to 100k pot
 
 ## 5. Build Media
 
-![VCO reference schematic followed for this build](./Pics/shapes.png)
-*Reference "Shapes VCO" schematic used as the design basis.*
+<p align="center">
+  <img src="../Pics/VCO_Schematic_Reference.png" width="400" alt="Reference Schematic">
+</p>
+<p align="center">
+  <em>Fig. 2. Reference "Shapes VCO" schematic used as the design basis.</em>
+</p>
 
-![Breadboard build, top-down view](./Pics/VCOover.jpeg)
-*Top-down view of the breadboard build, sequencer and oscillator sections labeled.*
-
-![Full breadboard build, angled view](./Pics/VCO_side.png)
-*Angled view of the full two-board build.*
+<p align="center">
+  <img src="../Pics/VCO_Angled_View.jpg" width="400" alt="Angled View Full Build">
+</p>
+<p align="center">
+  <em>Fig. 3. Angled view of the full two-board build showing 4-step CV potentiometers and core logic.</em>
+</p>
 
 ### Demo Video
 [Watch the VCO and Sequencer Demo on Google Drive](https://drive.google.com/file/d/1yXxklhQKPN-tiU9zWu6JRz8YAkXaJKhT/view?usp=sharing)
