@@ -134,12 +134,8 @@ Using parts in the stock, **R1 = 1k**, **R2 = 68k in series with a 0 to 100k pot
 ![Full breadboard build, angled view](./Pics/VCO_side.png)
 *Angled view of the full two-board build.*
 
-**Demo video:**
-
-```html
-<video src="./Pics/VCO_Working.mp4" controls width="600"></video>
-```
-
+### Demo Video
+[Watch the VCO and Sequencer Demo on Google Drive](https://drive.google.com/file/d/1yXxklhQKPN-tiU9zWu6JRz8YAkXaJKhT/view?usp=sharing)
 ---
 
 ## 6. Key Learnings
