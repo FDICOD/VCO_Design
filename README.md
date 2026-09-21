@@ -2,6 +2,11 @@
 
 A discrete and CMOS analog voltage-controlled oscillator built around a Schmitt-trigger relaxation core, an NPN exponential converter for 1V/oct tracking, a PNP and NTC thermal compensation stage, an output buffer, and a CD4017-based 4-step pitch sequencer. Built on breadboard using the design methodology of Moritz Klein's "Shapes VCO" and EDU DIY VCO circuit.
 
+<p align="center">
+  <em>Fig. 1. Full two-board breadboard build: The sequencer step pots on the left, oscillator core bottom right.</em>
+</p>
+
+
 ---
 
 ## 1. Overview
@@ -129,18 +134,15 @@ Using parts in the stock, **R1 = 1k**, **R2 = 68k in series with a 0 to 100k pot
   <img src="./Pics/shapes.png" width="600" alt="Full Breadboard Build Top View">
 </p>
 <p align="center">
-  <em>Fig. 1.  Reference "Shapes VCO" schematic used as the design basis.</em>
+  <em>Fig. 2.  Reference "Shapes VCO" schematic used as the design basis.</em>
 </p>
 
 <p align="center">
   <img src="./Pics/VCOover.jpeg" width="600" alt="Reference Schematic">
 </p>
-<p align="center">
-  <em>Fig. 2. Full two-board breadboard build: The sequencer step pots on the left, oscillator core bottom right.</em>
-</p>
 
 <p align="center">
-  <img src="../Pics/VCO_side.png" width="600" alt="Angled View Full Build">
+  <img src="./Pics/VCO_side.png" width="600" alt="Angled View Full Build">
 </p>
 <p align="center">
   <em>Fig. 3. Angled view of the full two-board build showing 4-step CV potentiometers and core logic.</em>
