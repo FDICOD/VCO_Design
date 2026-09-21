@@ -133,14 +133,14 @@ Using parts in the stock, **R1 = 1k**, **R2 = 68k in series with a 0 to 100k pot
 </p>
 
 <p align="center">
-  <img src="../Pics/VCOover.jpeg" width="600" alt="Reference Schematic">
+  <img src="./Pics/VCOover.jpeg" width="600" alt="Reference Schematic">
 </p>
 <p align="center">
   <em>Fig. 2. Full two-board breadboard build: The sequencer step pots on the left, oscillator core bottom right.</em>
 </p>
 
 <p align="center">
-  <img src="../Pics/VCO%20side.png" width="600" alt="Angled View Full Build">
+  <img src="../Pics/VCO_side.png" width="600" alt="Angled View Full Build">
 </p>
 <p align="center">
   <em>Fig. 3. Angled view of the full two-board build showing 4-step CV potentiometers and core logic.</em>
